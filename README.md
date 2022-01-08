@@ -1,7 +1,7 @@
 # WeWorld - The app that pays you to be more eco-friendly
 **Welcome to WeWorld**
 
-**What are we combating?**
+<h1>**What are we combating?**</h1>
 
 14 billion pounds of rubbish are dumped in the ocean every year.
 Global Warming/ Climate change.
